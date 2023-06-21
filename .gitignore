@@ -1,6 +1,6 @@
 *.user
 CMakeSettings.json
 
-build/
+build*/
 .vs/
 *.lib
